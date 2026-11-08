@@ -1,14 +1,12 @@
 # Imagination
 
-### Plan it where you'll build it.
+![MistRazor presents Imagination Mod](https://cdn.modrinth.com/data/cached_images/f92443f5c2f20ab0750662cf3ab669434fd00bc8.png)
 
-Imagination gives you a creative-like planning layer inside your survival world. Imagine a build exactly where it will stand, then build it for real over a see-through blueprint. You never leave your world, and you never export a schematic.
-
-**Fabric & NeoForge · Minecraft 1.20 – 26.3 · Client-side, with optional server features**
+Imagination gives you a creative-like planning layer inside your survival world. Imagine a build exactly where it will stand, then build it for real over a see-through blueprint. You never leave your world, and you never need to fuss with schematics.
 
 ---
 
-## The problem it solves
+## Why Imagination?
 
 Here's how players usually plan a big survival build:
 
